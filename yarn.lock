@@ -14510,7 +14510,7 @@ __metadata:
     ts-node: 7.0.1
     typedoc: 0.22.10
     typescript: 4.0.7
-    urijs: 1.19.7
+    urijs: 1.19.10
     uuid: ^3.0.1
     v-selectpage: 2.0.2
     v-tooltip: v2.0.3
@@ -16261,10 +16261,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"urijs@npm:1.19.7":
-  version: 1.19.7
-  resolution: "urijs@npm:1.19.7"
-  checksum: faf178c0ebad4d9eb255c2ed181a1249c496c70383f53383f40ecf783b8b51c84b51503f309b8508048bdc98347f766513ef16692a096888b310b5e1c08c1e46
+"urijs@npm:1.19.10":
+  version: 1.19.10
+  resolution: "urijs@npm:1.19.10"
+  checksum: 6402b0882633f0a4dfb481b8bfd3020d518e60edc519b2e05828e91f1b9e6857bf016ffee1848183152081bedc7689b1707fe942ad6e9384492d92185484a200
   languageName: node
   linkType: hard
 
